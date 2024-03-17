@@ -1,0 +1,6 @@
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\bin\Debug\KNBase.dll
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\bin\Debug\KNBase.pdb
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\obj\Debug\KNBase.csproj.AssemblyReference.cache
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\obj\Debug\KNBase.csproj.CoreCompileInputs.cache
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\obj\Debug\KNBase.dll
+D:\DuLieu\LapTrinh\GitKNBase\KNBase\KNBase\obj\Debug\KNBase.pdb
